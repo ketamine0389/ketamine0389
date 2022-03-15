@@ -10,7 +10,7 @@ I'm most experienced in Java, C#, JavaScript, VB.net and CSS.
 <br/>
 <br/><br/>
 I also have experience with:
-- Python
+- PHP
 - C++
 - Ruby
 - SQL
