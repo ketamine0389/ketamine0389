@@ -23,7 +23,7 @@ I'm trying to branch out into the world of web development and dive into C++.
 ## Links
 - [Website](http://ballsmp.ddns.net/)
 - [Discord Server](https://discord.gg/mwwzq3C)
-- [Programming Discord Server](https://discord.gg/jJ9ZR344TC)
+- [Programming Discord Server](https://discord.gg/G54W88ncr4)
 - Portfolio (not yet uploaded)
 
 ## Contact
