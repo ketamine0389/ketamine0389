@@ -6,24 +6,23 @@ This git account will contain a large majority of my open-source web apps and ot
 # Information
 
 ## Language Experience
-I'm most experienced in Java, C#, JavaScript, VB.net and CSS.
+I'm most experienced in Java, JavaScript, VB.net and CSS.
 <br/>
 <br/><br/>
 I also have experience with:
-- PHP
+- HTML
 - C++
-- Ruby
 - SQL
-- HTML5
+- C#
+- Ruby
 
 ## Current Work
 
-I'm trying to branch out into the world of web development and dive into C++.
+Diving more into C++ to create a game engine.
 
 ## Links
 - [Website](http://ballsmp.ddns.net/)
 - [Discord Server](https://discord.gg/mwwzq3C)
-- [Programming Discord Server](https://discord.gg/G54W88ncr4)
 - Portfolio (not yet uploaded)
 
 ## Contact
