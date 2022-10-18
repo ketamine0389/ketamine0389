@@ -1,24 +1,16 @@
 # Introduction
 Howdy howdy ho, I'm @ketamine0389.
-<br/>
-This git account will contain a large majority of my open-source web apps and other apps.
+<br>
+<code>code</code>
 
 # Information
 
 ## Language Experience
-I'm most experienced in Java, JavaScript, VB.net and CSS.
-<br/>
-<br/><br/>
-I also have experience with:
-- HTML
-- C++
-- SQL
-- C#
-- Ruby
+I'm most experienced in Java, JavaScript, PHP, and VB.net (SQL too, but that doesn't really count).
 
 ## Current Work
 
-Diving more into C++ to create a game engine.
+Working on learning more PHP security as well as diving into HTML5's WebSocket api.
 
 ## Links
 - [Website](http://ballsmp.ddns.net/)
