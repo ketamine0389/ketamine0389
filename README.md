@@ -1,4 +1,6 @@
-# Introduction
+# 🚧🔨 Under Construction 👷‍♂️🏗
+
+<!-- # Introduction
 Howdy howdy ho, I'm @ketamine0389.
 <br>
 <code>code</code>
@@ -15,9 +17,9 @@ Working on learning more PHP security as well as diving into HTML5's WebSocket a
 ## Links
 - [Website](http://ballsmp.ddns.net/)
 - [Discord Server](https://discord.gg/mwwzq3C)
-- Portfolio (not yet uploaded)
+- Portfolio (not yet uploaded) -->
 
-## Contact
+### Contact
 
 - ketamine#0389 on Discord
 - ketamine0389@gmail.com
