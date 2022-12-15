@@ -1,5 +1,22 @@
 # 🚧🔨 Under Construction 👷‍♂️🏗
 
+### Projects I Have Worked On
+
+- Erie County Technical School
+  - [Snack Cart Website](https://ects-computerprogramming.com/ECTSSnackCart/)
+    - A page in which users can order from a Snack Cart that goes around ECTS.
+  - [Help Board](https://ects-computerprogramming.com/ClassCompanions/DigitalHelpBoard/)
+    - In our lab, we have a help board in which students can request help from the instructor and other students.
+- Other School Projects
+  - [Plant Cell Model](https://app.codingrooms.com/w/Z8IfveBlMdUe)
+    - A 2D model of a plant cell created with Java. May show up on Github eventually.
+  - [DNA Model](https://ballsmp.ddns.net/other/school-projects/biology/DNA_model/)
+    - A 3D model of DNA generated with Three.js. Code is featured here on my Github.
+    - (sorry if the website isn't running)
+- Personal Projects
+  - Many, many, scripts and Discord bots.
+  - Some of this misc work is over on my [Replit](https://replit.com/@ketamine0389) (i dont know how to make them visible)
+
 <!-- # Introduction
 Howdy howdy ho, I'm @ketamine0389.
 <br>
