@@ -1,6 +1,6 @@
 # 🚧🔨 Under Construction 👷‍♂️🏗
 
-### Projects I Have Worked On
+<!--### Projects I Have Worked On
 
 - Erie County Technical School
   - [Snack Cart Website](https://ects-computerprogramming.com/ECTSSnackCart/)
@@ -15,7 +15,7 @@
     - (sorry if the website isn't running)
 - Personal Projects
   - Many, many, scripts and Discord bots.
-  - Some of this misc work is over on my [Replit](https://replit.com/@ketamine0389) (i dont know how to make them visible)
+  - Some of this misc work is over on my [Replit](https://replit.com/@ketamine0389) (i dont know how to make them visible)-->
 
 <!-- # Introduction
 Howdy howdy ho, I'm @ketamine0389.
