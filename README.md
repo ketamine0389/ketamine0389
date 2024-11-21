@@ -38,7 +38,7 @@ Working on learning more PHP security as well as diving into HTML5's WebSocket a
 
 ### Contact
 
-- ketamine#0389 on Discord
+- ketamine0389 on Discord
 - ketamine0389@gmail.com
 
 <!---
